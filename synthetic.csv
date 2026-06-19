@@ -1,0 +1,21 @@
+"student_id","name","age","grade","attendance_percentage"
+"1","Alice Smith",12,"9th",95
+"2","Bob Johnson",13,"10th",90
+"3","Charlie Brown",11,"8th",98
+"4","David Lee",14,"11th",92
+"5","Emily Chen",12,"9th",96
+"6","Frank White",15,"12th",95
+"7","George Davis",13,"10th",93
+"8","Hannah Patel",11,"8th",97
+"9","Isabella Garcia",14,"11th",94
+"10","Julian Hall",12,"9th",91
+"11","Kayla Martin",15,"12th",96
+"12","Lily Nguyen",13,"10th",99
+"13","Matthew Kim",12,"9th",89
+"14","Natalie Lewis",14,"11th",93
+"15","Owen Reed",11,"8th",95
+"16","Penelope Sanchez",13,"10th",97
+"17","Quincy Tran",14,"11th",91
+"18","Ryan Walker",12,"9th",98
+"19","Sophia Wong",15,"12th",94
+"20","Tessa Yang",13,"10th",96"
